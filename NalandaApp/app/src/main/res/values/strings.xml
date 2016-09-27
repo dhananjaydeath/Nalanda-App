@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NalandaApp</string>
+    <string name="title_name">Nalanda Institute of Engineering and Technology</string>
+    <string name="description">About: Nalanda Institute of Engineering and Technology college has a picturesque, spreading campus, about 40 acres. The College has 6 disciplines of Engineering leading to B.Tech degree awarded by JNTU in (ECE, EEE, CSE, IT, MECH, CIVIL). It is equipped with lecture-halls, laboratories, Computer Center, library and all the prescribed facilities.</string>
+    <string name="contact_phone">+91 9948766623</string>
+    <string name="contact_email">nalanda_office@gmail.com</string>
+    <string name="address">Siddharth Nagar, Kantepudi, Sattenapalli, Guntur, Andhra Pradesh 522438</string>
+
+</resources>
